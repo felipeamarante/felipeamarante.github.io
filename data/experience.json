@@ -1,0 +1,30 @@
+{
+	"title": "Experience",
+	"experience": [
+		{
+			"timeperiod": "2016 - Present",
+			"company": "Amazon Web Services🌩",
+			"description": "Building big clouds and solving big problems."
+		},
+		{
+			"timeperiod": "2015 - 2016",
+			"company": "ADTsys🌥",
+			"description": "Start building and automating some clouds."
+		},
+		{
+			"timeperiod": "2012 - 2015",
+			"company": "British Telecom🇬🇧",
+			"description": "Configured and fixed fridge sized routers."
+		},
+		{
+			"timeperiod": "2010 - 2012",
+			"company": "AT&T📱",
+			"description": "Fixed big customers' Internet, remotely."
+		},
+		{
+			"timeperiod": "2009 - 2010",
+			"company": "IBM 👁🐝Ⓜ",
+			"description": "Helped people with Linux 🐧"
+		}
+	]
+}

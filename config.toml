@@ -1,0 +1,5 @@
+baseURL = "https://felipeamarante.github.io/"
+languageCode = "en-us"
+title = "Felipe A."
+theme = "famarant-uilite"
+publishDir = "docs"
