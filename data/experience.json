@@ -1,8 +1,13 @@
 {
 	"title": "Experience",
 	"experience": [
+		{	
+			"timeperiod": "2021 - Present",
+			"company": "Outsystems🚀",
+			"description": "Changing how software development is done."
+		},
 		{
-			"timeperiod": "2016 - Present",
+			"timeperiod": "2016 - 2021",
 			"company": "Amazon Web Services🌩",
 			"description": "Building big clouds and solving big problems."
 		},
