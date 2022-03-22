@@ -3,8 +3,13 @@
 	"experience": [
 		{	
 			"timeperiod": "2021 - Present",
+			"company": "ConvaTec💉",
+			"description": "Architecting Solutions that help people to live better lives"
+		},
+		{
+			"timeperiod": "2021 - 2021",
 			"company": "Outsystems🚀",
-			"description": "Changing how software development is done."
+			"description": "Leading Engineers to change how Software Development is done."
 		},
 		{
 			"timeperiod": "2016 - 2021",
