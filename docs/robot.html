@@ -1,10 +1,13 @@
 <html>
+
+<head>
 <script src="https://www.google.com/recaptcha/enterprise.js?render=6Ld-dMofAAAAAFIfO2wMA-UjV_szlc0Dg67vwFSb"></script>
 <script>
-grecaptcha.enterprise.ready(function() {
-    grecaptcha.enterprise.execute('6Ld-dMofAAAAAFIfO2wMA-UjV_szlc0Dg67vwFSb', {action: 'login'}).then(function(token) {
-       ...
-    });
-});
-</script>
-</html>
+  grecaptcha.enterprise.ready(function() {
+      grecaptcha.enterprise.execute('6Ld-dMofAAAAAFIfO2wMA-UjV_szlc0Dg67vwFSb', {action: 'homepage'}).then(function(token) {
+      });
+  });
+  </script>
+
+</head>
+
