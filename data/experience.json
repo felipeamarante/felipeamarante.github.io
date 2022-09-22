@@ -1,8 +1,13 @@
 {
 	"title": "Experience",
 	"experience": [
+	        {	
+			"timeperiod": "2022 - Present",
+			"company": "Digibee🐝",
+			"description": "Leading Engineering teams across the globe to redesign how integration is done."
+		},
 		{	
-			"timeperiod": "2021 - Present",
+			"timeperiod": "2021 - 2022",
 			"company": "ConvaTec💉",
 			"description": "Architecting Solutions that help people to live better lives"
 		},
