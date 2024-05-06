@@ -1,5 +1,0 @@
-baseURL = "https://hello.felipe.cloud/"
-languageCode = "en-us"
-title = "Felipe A."
-theme = "famarant-uilite"
-publishDir = "docs"

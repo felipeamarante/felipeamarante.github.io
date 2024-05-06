@@ -1,9 +1,0 @@
-{
-	"title" : "Skills",
-	"skills" : {
-		"AWS" : "100",
-		"System Design" : "80",
-		"DevOps" : "80",
-		"Distributed Systems" : "90"
-	}
-}
